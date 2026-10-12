@@ -25,46 +25,46 @@ I used both Win Shares and VORP because they are built differently (VORP measure
 
 Findings
 Stars ($20M+ salary): best value
-Metric	#1	#2
-VORP per $1M	Domantas Sabonis, 0.256 ($21.1M)	Joel Embiid ($33.6M)
-WS per $1M	Domantas Sabonis, 0.597	[confirm from your results]
+Metric	Top 2
+VORP per $1M, #1 Domantas Sabonis, 0.256 ($21.1M Salary), #2 Joel Embiid, 0.19 ($33.6M Salary).
+WS per $1M, 	#1 Domantas Sabonis, 0.597 ($21.1M Salary), #2 Jarrett Allen, 0.475 ($20M Salary).
 
 Joel Embiid, the 2022-23 MVP, posted 0.366 WS per $1M on his $33.6M salary.
 
 Sabonis, on a $21.1M salary, out-produced the 2022-23 MVP (Embiid) per dollar on VORP and was #1 on WS per dollar as well.
 On both top-10 lists (best value on both metrics): Shai Gilgeous-Alexander, Jayson Tatum, Joel Embiid, Mikal Bridges, Julius Randle, Jimmy Butler.
-Top 10 WS per $1M only: Aaron Gordon, Jalen Brunson, Jarrett Allen.
-Top 10 VORP per $1M only: Donovan Mitchell, Giannis Antetokounmpo, Fred VanVleet.
+Only on Top 10 WS per $1M list: Aaron Gordon, Jalen Brunson, Jarrett Allen.
+Only on Top 10 VORP per $1M list: Donovan Mitchell, Giannis Antetokounmpo, Fred VanVleet.
 Stars ($20M+ salary): worst value
-Lowest VORP per $1M: Gordon Hayward, 0.007 on a $30.07M salary.
-Russell Westbrook appears twice in the worst lists because both his Lakers row (52 games) and his full-season row (73 games) qualified. His Clippers stint (21 games) did not meet the minutes filter.
-Lakers: 0.015 WS per $1M and 0.015 VORP per $1M
-Full season: 0.04 WS per $1M and 0.025 VORP per $1M (salary $47.08M)
+Lowest VORP per $1M: #1 Gordon Hayward, 0.007 on a $30.07M salary
+Russell Westbrook appears twice in each of the worst VORP_per_million and WS_per_million list because both his Lakers row (52 games) and his full-season row (73 games) qualified. His Clippers stint (21 games) did not meet the minutes filter.
+Lakers row: 0.015 WS per $1M and 0.015 VORP per $1M
+Full season row: 0.04 WS per $1M and 0.025 VORP per $1M (salary $47.08M)
 On both bottom-10 lists (worst value on both metrics): Russell Westbrook, Gordon Hayward, Andrew Wiggins, Klay Thompson, Ben Simmons, Kevin Love.
-Bottom 10 WS per $1M only: Terry Rozier, Bradley Beal, Paul George.
-Bottom 10 VORP per $1M only: John Collins, Anfernee Simons, Mike Conley.
+Only on bottom 10 WS per $1M list: Terry Rozier, Bradley Beal, Paul George.
+Only on bottom 10 VORP per $1M list: John Collins, Anfernee Simons, Mike Conley.
 All players: best value
 Highest VORP per $1M: Desmond Bane, 1.174 ($2.13M), then Tyrese Haliburton, 1.044 ($4.21M).
 Highest WS per $1M: Austin Reaves ($1.56M) and Anthony Lamb ($6.94M) tied at 3.454. (see data notes)
 On both top-10 lists: Desmond Bane, Austin Reaves, Walker Kessler, Daniel Gafford, Immanuel Quickley.
-Top 10 VORP per $1M only: Jordan Goodwin, Sam Hauser, Isaiah Joe, Naz Reid.
-Top 10 WS per $1M only: Anthony Lamb, Nick Richards, Drew Eubanks, Terance Mann, Quentin Grimes.
+Only on Top 10 VORP per $1M list: Jordan Goodwin, Sam Hauser, Isaiah Joe, Naz Reid.
+Only on Top 10 WS per $1M list: Anthony Lamb, Nick Richards, Drew Eubanks, Terance Mann, Quentin Grimes.
 
-Haliburton ranking near the top of the value list is consistent with what followed: he was named an All-Star that season.
+Haliburton ranking near the top of the value list is consistent with what followed: he was named to his first All-Star game that season.
 
 All players: worst value
 Lowest VORP per $1M: Malachi Branham, -0.444 ($2.95M), then Gabe Vincent, -0.33 ($1.8M).
 Lowest WS per $1M: Killian Hayes, -0.086 ($5.84M), then Malachi Branham, -0.034.
 On both bottom-10 lists: Malachi Branham, Killian Hayes, Jeremy Sochan.
-Bottom 10 WS per $1M only: Russell Westbrook (two rows), Reggie Jackson (two rows: 52 games with the Clippers, 68 overall; his Nuggets stint did not qualify), Jaden Ivey, Eric Gordon, Ben Simmons.
-Bottom 10 VORP per $1M only: Gabe Vincent, Andrew Nembhard, David Roddy, Tre Mann, Oshae Brissett, Bennedict Mathurin, Ayo Dosunmu.
+Only on bottom 10 WS per $1M list: Russell Westbrook (two rows), Reggie Jackson (two rows: 52 games with the Clippers, 68 overall; his Nuggets stint did not qualify), Jaden Ivey, Eric Gordon, Ben Simmons.
+Only on bottom 10 VORP per $1M list: Gabe Vincent, Andrew Nembhard, David Roddy, Tre Mann, Oshae Brissett, Bennedict Mathurin, Ayo Dosunmu.
 Takeaways
 The best-value contracts were almost all cheap deals. The all-player top 10s are dominated by players earning under roughly $7M, so ratios reward low salaries. That is why the $20M star filter matters.
 Among stars, the best value came from players whose salary was lower than their impact. Sabonis and the MVP ranked above higher-paid stars on both metrics.
 The two metrics disagree often enough to matter. Only 6 of 10 top stars appear on both lists, so using one metric alone would change the conclusions. Players on both are the most robust picks.
 Big contracts for declining or injured players were the worst value. Westbrook, Hayward, Simmons, Wiggins, Thompson, and Love all appear near the bottom on both metrics.
 The worst values among low-salary players were young players playing heavy minutes (Branham, Hayes, Sochan), a different kind of "bad value": cheap, but on the court a lot with low production.
-If I were the GM: targets
+If I were the GM: trade targets
 
 My targets are Desmond Bane, Austin Reaves, and Walker Kessler. All three ranked in the top 10 on both VORP per $1M and WS per $1M among all players, so the numbers support them on two different metrics. They are complementary role players rather than full-blown stars, which fits a team that wants to add depth and pieces without paying star prices.
 
