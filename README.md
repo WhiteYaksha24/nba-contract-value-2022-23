@@ -5,7 +5,7 @@ NBA Contract Value 2022-23: Salary vs. Performance
 
 Which NBA players gave their teams the most production per salary dollar in 2022-23, and which contracts were the biggest overpays?
 
-Tools: SQL (SQLite), Excel (name cleaning). Python analysis and charts coming next. Data: Basketball Reference advanced stats (2022-23) and [YOUR SALARY SOURCE] salaries (2022-23).
+Tools: SQL (SQLite), Excel (name cleaning). Python analysis and charts coming next. Data: Basketball Reference advanced stats (2022-23) and https://www.kaggle.com/datasets/jamiewelsh2/nba-player-salaries-2022-23-season?select=nba_salaries.csv for salaries (2022-23).
 
 Scope and limitations
 
