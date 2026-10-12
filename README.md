@@ -27,6 +27,7 @@ Findings
 Stars ($20M+ salary): best value
 Metric	Top 2
 VORP per $1M, #1 Domantas Sabonis, 0.256 ($21.1M Salary), #2 Joel Embiid, 0.19 ($33.6M Salary).
+
 WS per $1M, 	#1 Domantas Sabonis, 0.597 ($21.1M Salary), #2 Jarrett Allen, 0.475 ($20M Salary).
 
 Joel Embiid, the 2022-23 MVP, posted 0.366 WS per $1M on his $33.6M salary.
